@@ -3,7 +3,7 @@
 Website: [idrak.ca](https://idrak.ca)
 
 Formula Scents: [formula-scents.idrak.ca](https://formula-scents.idrak.ca)  
-Access is restricted behind Cloudflare Access and must be requested through Shaaf.
+Access is restricted behind Cloudflare Access; contact Shaaf to request access.
 
 ## Logos
 
