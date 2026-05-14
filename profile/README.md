@@ -1,4 +1,4 @@
-## IDRAK Entreprises
+## IDRAK-Entreprises
 
 Website: https://idrak.ca
 
@@ -7,5 +7,5 @@ Access is restricted behind Cloudflare Access and must be requested through Shaa
 
 ## Logos
 
-- [Primary logo placeholder]
-- [Secondary logo placeholder]
+- [Primary logo placeholder: `assets/logo-primary.png`]
+- [Secondary logo placeholder: `assets/logo-secondary.png`]
