@@ -1,12 +1,22 @@
-## Hi there 👋
+```text
+██╗██████╗ ██████╗  █████╗ ██╗  ██╗
+██║██╔══██╗██╔══██╗██╔══██╗██║ ██╔╝
+██║██║  ██║██████╔╝███████║█████╔╝
+██║██║  ██║██╔══██╗██╔══██║██╔═██╗
+██║██████╔╝██║  ██║██║  ██║██║  ██╗
+╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
-<!--
+# IDRAK Entreprises
 
-**Here are some ideas to get you started:**
+IDRAK Entreprises builds and delivers digital products and client solutions.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Website
+
+- Main website: [idrak.ca](https://idrak.ca)
+
+## Client Work
+
+- Formula Scents: [formula-scents.idrak.ca](https://formula-scents.idrak.ca)
+- This environment is protected by Cloudflare Access controls.
+- If you need help accessing it, contact Shaaf.
