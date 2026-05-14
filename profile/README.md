@@ -7,5 +7,5 @@ Access is restricted behind Cloudflare Access and must be requested through Shaa
 
 ## Logos
 
-- [Primary logo placeholder: `assets/logo-primary.png`]
-- [Secondary logo placeholder: `assets/logo-secondary.png`]
+- Primary logo placeholder: `assets/logo-primary.png`
+- Secondary logo placeholder: `assets/logo-secondary.png`
